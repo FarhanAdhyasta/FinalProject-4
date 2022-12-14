@@ -1,0 +1,28 @@
+body{
+    background: rgba(0,0,0,0.7) url("../asset/wal.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.jdl{
+    -webkit-text-stroke: 1px rgb(221, 46, 221);
+    font-weight: bold;
+    font-size: 55px;
+}
+.group-name{
+    margin-top: 7rem;
+    margin-left: 15rem;
+   
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+.row{
+    background-color: black;
+    border: 4px solid rgb(174, 7, 174);
+    border-radius: 10px;
+}
