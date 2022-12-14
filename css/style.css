@@ -14,8 +14,8 @@ body {
 }
 
 .group-name {
-    margin-top: 4rem;
-    margin-left: 5rem;
+    margin-top: 5px;
+    margin-left: 5px;
     font-size: 13px;
     text-align: justify;
     /* color: rgb(221, 46, 221); */
@@ -47,7 +47,7 @@ body {
 .search-bar {
     border: none;
     outline: none;
-    padding: 0.5em 1em;
+    padding: 0.4em 1em;
     border-radius: 15px;
     background: #7c7c7c2b;
     color: white;
