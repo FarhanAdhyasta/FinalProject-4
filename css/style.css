@@ -47,13 +47,13 @@ body {
 .search-bar {
     border: none;
     outline: none;
-    padding: 0.4em 1em;
+    padding: 0.5em 1em;
     border-radius: 15px;
     background: #7c7c7c2b;
     color: white;
     font-family: inherit;
     font-size: 105%;
-    width: calc(100% - 100px);
+    width: calc(70% - 80px);
 }
 
 /*dektop versi*/
