@@ -38,3 +38,6 @@ body{
     font-size: 105%;
     width: calc(100% - 100px);
 }
+.footer{
+    color:1px rgb(221, 46, 221);
+}
